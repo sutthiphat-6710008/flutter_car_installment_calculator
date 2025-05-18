@@ -1,4 +1,4 @@
-![Screenshot_20250518_170611](https://github.com/user-attachments/assets/fc3b4448-b50a-494e-a2b0-20983a29e254)![image](https://github.com/user-attachments/assets/b8b5f528-4580-45d7-bbe5-0c46f259f09c)# flutter_dti_project
+flutter_dti_project
 
 A new Flutter project.
 

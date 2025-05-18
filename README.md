@@ -1,16 +1,18 @@
-# flutter_car_installment_calculator
+![Screenshot_20250518_170611](https://github.com/user-attachments/assets/fc3b4448-b50a-494e-a2b0-20983a29e254)![image](https://github.com/user-attachments/assets/b8b5f528-4580-45d7-bbe5-0c46f259f09c)# flutter_dti_project
 
 A new Flutter project.
 
-## Getting Started
+## Ui 
+<img src="" width=200>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/7991a957-8e7c-43af-8eb1-465f665a9b49" width=200>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/user-attachments/assets/7526d98b-aef2-42c9-9f3a-e609421d8b47" width=200>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/5c737779-5448-4a03-92e2-10f4af4e2301" width=200>
+
+<img src="https://github.com/user-attachments/assets/0b830059-7899-4756-acc1-454d8cf0fa81" width=200>
+
+<img src="https://github.com/user-attachments/assets/ce37d886-ae10-454e-99cb-ab9dd955bb71" width=200>
+
